@@ -1,4 +1,4 @@
 def main(msg):
-// print a message
+// Adding the second comment.
     print(msg)
 main("hello people")
